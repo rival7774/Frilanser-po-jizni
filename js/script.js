@@ -2,16 +2,14 @@
 
 let userAge = `45` * `-8`;
 let userInfo = `Фрилансер ${userAge}`;
-console.log(userAge)
+console.log(userAge);
 
 let a = 1 + 2;
 let b = 2;
 
 let rezult = 8 - (a = b + 3);
 console.log(a);
-
-
-
+console.log(a);
 
 // console.log('35' + -'22');
 // // 13
@@ -32,8 +30,6 @@ console.log(a);
 
 // let namme = 0;
 // console.log(namme ?? 'без');
-
-
 
 // if (1 === "1") {
 //    console.log('Истина!');
